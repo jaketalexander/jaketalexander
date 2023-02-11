@@ -13,6 +13,15 @@ If you are interested in my work, please get in touch!
 - 📫 How to reach me: jaketalexander@gmail.com or at [LinkedIn](https://www.linkedin.com/in/jaketalexander/)
 - 😄 Pronouns: He/Him/His
 
+<div align="center">
+<table>
+  <tr>
+    <td valign="top"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaketalexander&show_icons=true&locale=en&layout=compact&theme=gotham&card_width=300" alt="jaketalexander" /></td>
+    <td valign="top"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jaketalexander&show_icons=true&locale=en&theme=gotham&hide=stars&hide_rank=true" alt="jaketalexander" /></td>
+  </tr>
+</table>
+</div>
+
 ## Technical Skills
 **Front End**<br>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
